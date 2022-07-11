@@ -14,7 +14,7 @@ At this point, I was back to square one again. And it was then that I first enco
 
 After some deliberation, I decided to delve right into it. 
 
-I started writing about what I learned on my WordPress blog (https://asifsyd.wordpress.com/) and LinkedIn feed, and I have been trying to do a few fun little projects using Python and SQL. My GitHub repositories serve as a home for the code of all those projects.
+I started writing about what I learned on [my WordPress blog](https://thedumbdatum.wordpress.com/) and LinkedIn feed, and I have been trying to do a few fun little projects using Python and SQL. My GitHub repositories serve as a home for the code of all those projects.
 
 My story seems antithetical to what my favorite author Cal Newport famously preaches - that one should focus on getting better at the current job rather than chasing a dream career.
 
