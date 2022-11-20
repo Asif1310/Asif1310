@@ -26,7 +26,7 @@ My story seems antithetical to what my favorite author Cal Newport famously prea
 
 But I am not chasing a dream career. 😬
 
-I just wanted something where I could both have fun and learn exciting things 😇, and I am glad I stumbled across data science & machine learning which ticked those boxes for me.
+I just wanted something where I could both have fun and learn exciting things 😇, and I am glad I stumbled across data science & machine learning which ticked those boxes for me. ✅
 
 
 
