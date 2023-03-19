@@ -35,6 +35,7 @@ I just wanted something where I could both have fun and learn exciting things ðŸ
 
 
 
+<img src="https://komarev.com/ghpvc/?username=asif1310&style=flat-square&color=blue" alt=""/>
 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif1310&show_icons=true&theme=merko)
 
