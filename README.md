@@ -30,7 +30,7 @@ I just wanted something where I could both have fun and learn exciting things ðŸ
 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif1310&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif1310&hide_progress=true)](https://github.com/asif1310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif1310&hide_progress=true)](https://github.com/asif1310/github-readme-stats&theme=merko)
 
 
 
