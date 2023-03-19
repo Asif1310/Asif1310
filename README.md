@@ -28,7 +28,7 @@ But I am not chasing a dream career. 😬
 
 I just wanted something where I could both have fun and learn exciting things 😇, and I am glad I stumbled across data science & machine learning which ticked those boxes for me. ✅
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asif1310)](https://github.com/Asif1310&theme=dracula/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asif1310)](https://github.com/Asif1310/github-readme-stats)
 
 
 
