@@ -36,7 +36,10 @@ I just wanted something where I could both have fun and learn exciting things ğŸ
 </div>
 
 
-## Stats:
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30px"/>
+</h1>
 
 <img src="https://komarev.com/ghpvc/?username=asif1310&style=flat-square&color=blue" alt=""/>
 
