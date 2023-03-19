@@ -37,7 +37,7 @@ I just wanted something where I could both have fun and learn exciting things ğŸ
 
 
 <h1>
-  Hi there
+  Stats
   <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif" width="30px"/>
 </h1>
 
