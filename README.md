@@ -1,5 +1,7 @@
-
-## Hi there!
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 I was lying on a couch 🛋 in my room and eating junk food 🍟 when I made a life-changing career decision not to pursue a career in Civil Engineering 🏦, my undergraduate major 👨‍🎓
