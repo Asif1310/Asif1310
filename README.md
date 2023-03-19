@@ -31,8 +31,9 @@ But I am not chasing a dream career. 😬
 I just wanted something where I could both have fun and learn exciting things 😇, and I am glad I stumbled across data science & machine learning which ticked those boxes for me. ✅
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif" width="300"/>
 </div>
+
 
 ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif1310&show_icons=true&theme=merko)
 
