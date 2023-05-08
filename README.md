@@ -28,9 +28,11 @@ I have been trying to do a few fun little data projects using Python and SQL �
 
 My story seems antithetical to what my favorite author Cal Newport famously preaches ❌- that one should focus on getting better at the current job rather than chasing a dream career. 🤷‍♀️
 
-But I am not chasing a dream career. 😬
+But I am not chasing a dream career I am passionate about. 😬
 
-I just wanted something where I could both have fun and learn exciting things 😇, and I am glad I stumbled across data science & machine learning which ticked those boxes for me. ✅
+I just wanted a career where I could incrementally learn things, accumulate the skills, and use them as leverage to gain respect and autonomy 😇. 
+
+I am glad I stumbled across data science & analytics which ticked those boxes for me. ✅
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/jO2VAnKyAtgcSWxxVf/giphy.gif" width="300"/>
 </div>
